@@ -1,4 +1,5 @@
+![SCSS](https://img.shields.io/badge/-SCSS-cc6699?style=flat-square&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-080808?style=flat-square&logo=astro&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-bc52ee?style=flat-square&logo=python&logoColor=white)
