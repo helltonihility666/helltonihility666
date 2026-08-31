@@ -12,7 +12,7 @@
 > <span style="color:red;">...</span>
 
 > <span style="color:red;">In the end, my story wasn't about overcoming hardships. <b>It was a story of giving up.</b></span>
-
+$\color{red}{\text{red text}}$
 
 Current projects:
 ---
