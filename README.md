@@ -1,3 +1,19 @@
+> <span style="color:white;">Scarlett Eyler was right. </span>
+> 
+> <span style="color:red;">I know nothing about Vincent.</span>
+> 
+> <span style="color:white;">All I've ever seen was his blinding icon on the screen.\
+> I don't know him at all.\
+> Vincent smiles at me. I know what death feels like.\
+> White is truly a cruel color. </span>
+
+> <span style="color:red;">Why become a god of some unknown place when you're the god of my world already?</span>
+
+> <span style="color:red;">...</span>
+
+> <span style="color:red;">In the end, my story wasn't about overcoming hardships. <b>It was a story of giving up.</b></span>
+
+
 Current projects:
 ---
 ![Markdown](https://img.shields.io/badge/-Markdown-080808?style=flat-square&logo=markdown&logoColor=white)
