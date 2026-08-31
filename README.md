@@ -13,4 +13,4 @@ Future projects (WIP):
 ![C#](https://img.shields.io/badge/-C%23-903ba7?style=flat-square&logo=sharp&logoColor=white)
 ![AssetStudio](https://img.shields.io/badge/-Asset_Extraction-7c7c7c?style=flat-square&logo=unity&logoColor=white)
 
-<img src="https://media.tenor.com/dnFoWaEBIZ0AAAAi/evernight-everknight.gif" width="230"> <img src="https://media.tenor.com/rAmtc_yaEIYAAAAi/firefly-hsr-firefly.gif" width="250">
+<img src="https://media.tenor.com/dnFoWaEBIZ0AAAAi/evernight-everknight.gif" width="237"> <img src="https://media.tenor.com/rAmtc_yaEIYAAAAi/firefly-hsr-firefly.gif" width="250">
