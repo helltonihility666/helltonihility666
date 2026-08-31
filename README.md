@@ -1,18 +1,19 @@
-> <span style="color:white;">Scarlett Eyler was right. </span>
+> $\color{#ffffff}\textsf{Scarlett Eyler was right.}$
 > 
-> <span style="color:red;">I know nothing about Vincent.</span>
+> $\color{#ff0000}\textsf{I know nothing about Vincent.}$
 > 
-> <span style="color:white;">All I've ever seen was his blinding icon on the screen.\
-> I don't know him at all.\
-> Vincent smiles at me. I know what death feels like.\
-> White is truly a cruel color. </span>
+> $\color{#ffffff}\textsf{All I've ever seen was his blinding icon on the screen.}$ \
+> $\color{#ffffff}\textsf{I don't know him at all.}$ \
+> $\color{#ffffff}\textsf{Vincent smiles at me. I know what death feels like.}$ \
+> $\color{#ffffff}\textsf{White is truly a cruel color. }$ \
 
-> <span style="color:red;">Why become a god of some unknown place when you're the god of my world already?</span>
+> $\color{#ff0000}\textsf{Why become a god of some unknown place when you're the god of my world already?}$
 
-> <span style="color:red;">...</span>
+> $\color{#ffffff}\textsf{...}$
 
-> <span style="color:red;">In the end, my story wasn't about overcoming hardships. <b>It was a story of giving up.</b></span>
-$\color{red}{\text{red text}}$
+> $\color{#ff0000}\textsf{In the end, my story wasn't about overcoming hardships. It was a story of giving up.}$
+
+
 
 Current projects:
 ---
