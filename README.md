@@ -15,7 +15,7 @@
 
 
 
-Current projects:
+Current projects
 ---
 ![Markdown](https://img.shields.io/badge/-Markdown-080808?style=flat-square&logo=markdown&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-cc6699?style=flat-square&logo=sass&logoColor=white)
@@ -24,8 +24,12 @@ Current projects:
 ![Astro](https://img.shields.io/badge/-Astro-080808?style=flat-square&logo=astro&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white)
 
-Future projects (WIP):
+Future projects (WIP)
 ---
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-903ba7?style=flat-square&logo=sharp&logoColor=white)
 ![AssetExtraction](https://img.shields.io/badge/-Asset_Extraction-7c7c7c?style=flat-square&logo=unity&logoColor=white)
+
+Archives
+---
+- Accord's Library & Emil Shop: disk.yandex.ru/d/OKqDCGdtxBQAlg
