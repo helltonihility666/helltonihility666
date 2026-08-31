@@ -5,7 +5,7 @@
 > $\color{#ffffff}\textsf{All I've ever seen was his blinding icon on the screen.}$ \
 > $\color{#ffffff}\textsf{I don't know him at all.}$ \
 > $\color{#ffffff}\textsf{Vincent smiles at me. I know what death feels like.}$ \
-> $\color{#ffffff}\textsf{White is truly a cruel color. }$ \
+> $\color{#ffffff}\textsf{White is truly a cruel color. }$ 
 
 > $\color{#ff0000}\textsf{Why become a god of some unknown place when you're the god of my world already?}$
 
