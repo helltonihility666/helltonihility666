@@ -23,9 +23,9 @@ Current projects
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
 ![Astro](https://img.shields.io/badge/-Astro-080808?style=flat-square&logo=astro&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white)
-- Secret Main Project — PRIVATE
-- Personal Blog — Link
-- Relationship Blog — Link
+- Secret Main Project — PRIVATE (W.I.P.)
+- Personal Blog — Link (W.I.P.)
+- Relationship Blog — Ask for Link (W.I.P.)
 - Aventurine • Waveflair's SPD Study — Google Sheets
 - Aventurine • Waveflair's Battle Tests — Google Sheets
 
