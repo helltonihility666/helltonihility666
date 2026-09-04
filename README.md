@@ -23,6 +23,11 @@ Current projects
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
 ![Astro](https://img.shields.io/badge/-Astro-080808?style=flat-square&logo=astro&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white)
+- Secret Main Project — PRIVATE
+- Personal Blog — Link
+- Relationship Blog — Link
+- Aventurine • Waveflair's SPD Study — Google Sheets
+- Aventurine • Waveflair's Battle Tests — Google Sheets
 
 Future projects (WIP)
 ---
@@ -30,6 +35,6 @@ Future projects (WIP)
 ![C#](https://img.shields.io/badge/-C%23-903ba7?style=flat-square&logo=sharp&logoColor=white)
 ![AssetExtraction](https://img.shields.io/badge/-Asset_Extraction-7c7c7c?style=flat-square&logo=unity&logoColor=white)
 
-Archives
+Collection of Archives
 ---
-- Accord's Library & Emil Shop: disk.yandex.ru/d/OKqDCGdtxBQAlg
+- Accord's Library & Emil Shop — disk.yandex.ru/d/OKqDCGdtxBQAlg
