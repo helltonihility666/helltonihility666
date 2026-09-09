@@ -25,9 +25,9 @@ Current projects
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white)
 - Secret Main Project — W.I.P. (Private)
 - Personal Blog — W.I.P.
-- Relationship Blog — W.I.P. (Ask for Link)
-- Aventurine • Waveflair's SPD Study — 2026-08-08 (Ask for Link)
-- Aventurine • Waveflair's Battle Tests — 2026-07-31 (Ask for Link)
+- Relationship Blog — W.I.P. (Ask for a link)
+- Aventurine • Waveflair's SPD Study — 2026-08-08 (Ask for a link)
+- Aventurine • Waveflair's Battle Tests — 2026-07-31 (Ask for a link)
 
 Future projects (WIP)
 ---
