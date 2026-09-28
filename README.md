@@ -11,8 +11,12 @@
 
 > $\color{#ffffff}\textsf{...}$
 
-> $\color{#ff0000}\textsf{Would an entire ocean really be enough to wash all the ink off me, I wonder?}$
-> $\color{#ff0000}\textsf{In the end, my story wasn't about overcoming hardships. It was a story of giving up.}$
+> $\color{#ff0000}\textsf{Would an entire ocean really be enough to wash all the ink off me, I wonder?}$ \
+> $\color{#ff0000}\textsf{...}$ \
+> $\color{#ff0000}\textsf{In the end, my story wasn't about overcoming hardships. It was a story of giving up.}$ \
+> $\color{#ff0000}\textsf{...}$ \
+> $\color{#ff0000}\textsf{There was nothing to be sad about.}$ \
+> $\color{#ff0000}\textsf{All ended well, didn't it?}$
 
 
 
