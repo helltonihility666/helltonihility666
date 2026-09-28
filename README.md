@@ -15,7 +15,7 @@
 
 
 
-Current projects
+Current or finished projects
 ---
 ![Markdown](https://img.shields.io/badge/-Markdown-080808?style=flat-square&logo=markdown&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-cc6699?style=flat-square&logo=sass&logoColor=white)
