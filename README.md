@@ -11,6 +11,7 @@
 
 > $\color{#ffffff}\textsf{...}$
 
+> $\color{#ff0000}\textsf{Would an entire ocean really be enough to wash all the ink off me, I wonder?}$
 > $\color{#ff0000}\textsf{In the end, my story wasn't about overcoming hardships. It was a story of giving up.}$
 
 
