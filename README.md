@@ -33,7 +33,7 @@ Current or finished projects
 - Vasha focused Blog — W.I.P. (Ask for a link)
 - Aventurine • Waveflair's SPD Study — 2026-08-08 (Ask for a link)
 - Aventurine • Waveflair's Battle Tests — 2026-07-31 (Ask for a link)
-- HSR Revenue & Views Collection — 2026-08-30 (Link soon) 
+- HSR Revenue & Views Collection — 2026-08-30 (Ask for a link) 
 
 Future projects (WIP)
 ---
